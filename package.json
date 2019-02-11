@@ -4,7 +4,10 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.1",
+    "react-circular-progressbar": "^1.0.0",
     "react-dom": "^16.8.1",
+    "react-dropzone": "^8.1.0",
+    "react-icons": "^3.3.0",
     "react-scripts": "2.1.4",
     "styled-components": "^4.1.3"
   },
